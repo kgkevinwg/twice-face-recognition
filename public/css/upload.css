@@ -1,0 +1,20 @@
+input[type='submit']
+{
+    margin-top: 50px;
+}
+
+#errorContainer
+{
+    display: none;
+    margin-top: 50px;
+}
+
+#photoContainer
+{
+    margin-top: 50px;
+}
+
+#noticeContainer
+{
+    display: none;
+}

@@ -1,0 +1,24 @@
+input[type='submit']
+{
+    margin-top: 50px;
+}
+
+#photoContainer
+{
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+
+#targetImg
+{
+    position: absolute;
+    z-index: 1;
+}
+
+#detectionBox
+{
+    position: relative;
+    z-index: 20;
+}
